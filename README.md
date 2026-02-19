@@ -5,14 +5,14 @@ I'm a backend engineer and DevOps & security enthusiast who loves building relia
 ## About me
 - 🔭 I build backend services, design CI/CD pipelines, and work on infra-as-code.
 - 🌱 Deepening knowledge in cloud security, observability, and platform reliability.
-- 💬 Ask me about Python, FastAPI, Docker, Kubernetes, Terraform, and secure CI practices.
+- 💬 Ask me about Python, FastAPI, Docker, and secure CI practices.
 - ⚡ Fun fact: I read a lot and I keep aquarium fish — great way to relax after debugging deployments.
 
 ## Skills
 - Languages: Python (primary), Bash
 - Backend: FastAPI, Flask, Django
-- DevOps / Infra: Docker, Kubernetes, Helm, Terraform, systemd, nginx
-- CI/CD: GitHub Actions, GitLab CI, Jenkins
+- DevOps / Infra: Docker, systemd, nginx
+- CI/CD: GitHub Actions, GitLab CI
 - Security: Secrets management, least-privilege IAM, basic threat modeling, automated security checks
 - Observability: Prometheus, Grafana, structured logging, tracing basics
 
