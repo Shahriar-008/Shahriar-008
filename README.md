@@ -1,4 +1,4 @@
-# Hi, I'm Md. Shahriar Hussain 👋
+# Hi, I'm  Shahriar 👋
 
 Self-taught IT professional focused on cloud infrastructure, DevOps, Linux system administration, and cybersecurity. I learn by building — most of what's below runs in production on my own VPS, not in a tutorial sandbox.
 
