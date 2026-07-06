@@ -1,27 +1,37 @@
-# Hi, I’m Shahriar 👋
+# Hi, I'm Md. Shahriar Hussain 👋
 
-I'm a backend engineer and DevOps & security enthusiast who loves building reliable systems with Python. When I'm not writing code I enjoy reading and keeping aquarium fish.
+Self-taught IT professional focused on cloud infrastructure, DevOps, Linux system administration, and cybersecurity. I learn by building — most of what's below runs in production on my own VPS, not in a tutorial sandbox.
 
-## About me
-- 🔭 I build backend services, design CI/CD pipelines, and work on infra-as-code.
-- 🌱 Deepening knowledge in cloud security, observability, and platform reliability.
-- 💬 Ask me about Python, FastAPI, Docker, and secure CI practices.
-- ⚡ Fun fact: I read a lot and I keep aquarium fish — great way to relax after debugging deployments.
+## 🔭 What I'm building
 
-## Skills
-- Languages: Python (primary), Bash
-- Backend: FastAPI, Flask, Django
-- DevOps / Infra: Docker, systemd, nginx
-- CI/CD: GitHub Actions, GitLab CI
-- Security: Secrets management, least-privilege IAM, basic threat modeling, automated security checks
-- Observability: Prometheus, Grafana, structured logging, tracing basics
+- **Hermes** — a multi-pipeline automated market intelligence system (crypto, stocks, commodities) with editorial-style market updates. Multiple independent data pipelines, API integrations, and scheduled publishing logic.
+- **Bettrix** — a web agency I run, currently deployed on Cloudflare Workers (Wrangler-based build/deploy config).
 
-## What I’m currently working on
-- Improving deployment safety and recovery workflows for a microservices platform.
-- Automating compliance checks in CI to catch security regressions earlier.
+## 🛠️ Infrastructure & stack
 
-## How to reach me
-- GitHub: @Shahriar-008
-- I prefer collaboration via issues and pull requests — I review and respond there.
+- **OS/Virtualization:** Ubuntu 24.04 VPS, Docker & Docker Compose
+- **Deployment/Reverse proxy:** Coolify, Traefik
+- **Networking/Security:** NordVPN/NordLynx routed through custom iptables policy-based routing (split-tunnel VPN vs. direct traffic by service), firewall rules, VPN kill-switch design
+- **Automation:** ~27 cron jobs orchestrating data pipelines and maintenance tasks, custom Python watchdog + alerting system for uptime/health monitoring
+- **Languages/tools:** Python (automation, scripting, API integration), Bash, Git
 
-Thanks for stopping by — feel free to look through my repos or open an issue if you want to collaborate.
+## 🌱 Currently studying
+
+Working through the AWS certification path: **SAA → Security+ → SysOps → DevOps Pro / Terraform**, alongside a Google Cybersecurity Professional Certificate already completed.
+
+## 💬 Ask me about
+
+Linux system administration, Docker/Traefik/Coolify deployments, VPN policy routing with iptables, Python automation and monitoring, and building resilient production systems on a single VPS.
+
+## 🐠 Outside of work
+
+When I'm not on the terminal, I'm probably tending to my fish aquarium.
+
+## 📫 Find me
+
+- Blog: [shahariar.iam.bd](https://shahariar.iam.bd)
+- LinkedIn: [Md. Shahriar Hussain](https://www.linkedin.com/in/md-shahriar-hussain-852002308/)
+- Twitter/X: [@Shahriarhj](https://twitter.com/Shahriarhj)
+
+---
+*Currently job hunting — open to DevOps, Cloud, and Security-focused roles.*
